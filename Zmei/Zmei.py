@@ -67,6 +67,7 @@ while True:
     clear()
     print(snake4)
     time.sleep(0.5)
+
     if keyboard.is_pressed('o'):
       print("ХОБА!")
       break 
